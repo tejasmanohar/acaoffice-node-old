@@ -8,7 +8,11 @@
     "url": "http://github.com/tejas-manohar/acaoffice.git"
   },
   "dependencies": {
-    "express": "^4.9.4"
+    "express": "^4.9.4",
+    "body-parser": "^1.8.3",
+    "method-override": "^2.2.0",
+    "firebase": "^1.0.21",
+    "socket.io": "^1.1.0"
   },
   "devDependencies": {}
 }
