@@ -1,0 +1,13 @@
+{
+  "name": "acaoffice",
+  "version": "0.1.0",
+  "author": "Tejas Manohar <me@tejasmanohar.com>",
+  "main": "server.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "engines": {
+    "node": ">=0.10.3"
+  }
+}
