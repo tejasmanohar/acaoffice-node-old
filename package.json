@@ -3,11 +3,12 @@
   "version": "0.1.0",
   "author": "Tejas Manohar <me@tejasmanohar.com>",
   "main": "server.js",
+  "repository" : {
+    "type" : "git",
+    "url" : "http://github.com/tejas-manohar/acaoffice.git"
+  },
   "dependencies": {
   },
   "devDependencies": {
-  },
-  "engines": {
-    "node": ">=0.10.3"
   }
 }
